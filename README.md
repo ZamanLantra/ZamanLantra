@@ -20,7 +20,7 @@ I am passionate about projects at the intersection of **HPC, performance optimiz
 ## 🎓 Academic Background
 - **PhD in High-Performance Computing**, University of Warwick, United Kingdom (expected completion: July 2025).
 - **BSc Engineering in Electronic and Telecommunication**, University of Moratuwa, Sri Lanka.
-- **Advanced Level**, Isipathana College, Colombo, Sri Lanka.
+- **Advanced Level (Mathematics Steam)**, Isipathana College, Colombo, Sri Lanka.
 
 ## 🛠️ Skills
 - **Programming:** Proficient in C/C++, Java, Python.
