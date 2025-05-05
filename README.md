@@ -26,7 +26,7 @@ I am passionate about projects at the intersection of **HPC, performance optimiz
 - **Programming:** Proficient in C/C++, Java, Python.
 - **HPC Development:** Hands-on expertise in software design using OpenMP, MPI, CUDA, HIP, SYCL, Kokkos, Legion.
 - **HPC Devices:** Experience developing and validating shared/distributed memory software for CPUs (Intel, AMD), GPUs (NVIDIA, AMD, Intel), and the NVIDIA Grace-Hopper superchip.
-- **HPC Clusters:** Experienced in running, profiling, and debugging on large-scale systems, including [LUMI-G](https://docs.lumi-supercomputer.eu/hardware/lumig/) (rank #8), [ARCHER2](https://www.archer2.ac.uk/about/hardware.html) (#62), [DiRAC-Tursa](https://www.epcc.ed.ac.uk/hpc-services/dirac-tursa-gpu) (#205), [Sulis](https://sulis-hpc.github.io/techspecs/), Bede, and Avon.
+- **HPC Clusters:** Experienced in running, profiling, and debugging on large-scale systems, including [LUMI-G](https://docs.lumi-supercomputer.eu/hardware/lumig/) (rank #8), [ARCHER2](https://www.archer2.ac.uk/about/hardware.html) (#62), [DiRAC-Tursa](https://www.epcc.ed.ac.uk/hpc-services/dirac-tursa-gpu) (#205), [Sulis](https://sulis-hpc.github.io/techspecs/), [Bede](https://n8cir.org.uk/bede/), and Avon.
 - **Tools & Version Control:** Oracle, PostgreSQL, Confluence, GTest, JUnit, JBehave, JIRA, Git, Jenkins/Bamboo, CMake, Make, Spack, Arm Forge DDT, GDB, Valgrind, Intel Advisor/VTune, Nsight Compute/nvProf, ROCm Profiler, SLURM, Docker.
 - **Data Analysis & Modelling:** Skilled in data analysis and modelling using Python and MATLAB.
 
