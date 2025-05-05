@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Zaman Lantra
-## Researcher | Programmer | Badminton Enthusiast | Aviation & Motor Mechanics Fan
 
+## 🚀 TL;DR
+#### PhD in HPC | Ex-Fintech Engineer | Expert in C++/Python & GPU Programming | Passionate about performance, simulation & code that runs fast | Badminton Enthusiast.
+
+##
 I am a PhD researcher specializing in **High-Performance Computing (HPC)** and **Software Engineering**, with over eight years of experience in **C/C++ and Python**.
 I have a strong background in **MPI, OpenMP, CUDA, HIP, and SYCL**, and am skilled in CPU/GPU programming, performance portability and optimization, domain-specific languages, source-to-source translation, profiling, distributed computing, low-level programming, and Linux-based environments.
 With 4.5+ years of industry experience as a **Specialist Software Engineer**, I have developed performance-critical components for stock exchanges.
@@ -23,12 +26,32 @@ I am passionate about projects at the intersection of **HPC, performance optimiz
 - **Advanced Level (Mathematics Steam)**, Isipathana College, Colombo, Sri Lanka.
 
 ## 🛠️ Skills
-- **Programming:** Proficient in C/C++, Java, Python.
-- **HPC Development:** Hands-on expertise in software design using OpenMP, MPI, CUDA, HIP, SYCL, Kokkos, Legion.
-- **HPC Devices:** Experience developing and validating shared/distributed memory software for CPUs (Intel, AMD), GPUs (NVIDIA, AMD, Intel), and the NVIDIA Grace-Hopper superchip.
-- **HPC Clusters:** Experienced in running, profiling, and debugging on large-scale systems, including [LUMI-G](https://docs.lumi-supercomputer.eu/hardware/lumig/) (rank #8), [ARCHER2](https://www.archer2.ac.uk/about/hardware.html) (#62), [DiRAC-Tursa](https://www.epcc.ed.ac.uk/hpc-services/dirac-tursa-gpu) (#205), [Sulis](https://sulis-hpc.github.io/techspecs/), [Bede](https://n8cir.org.uk/bede/), and Avon.
-- **Tools & Version Control:** Oracle, PostgreSQL, Confluence, GTest, JUnit, JBehave, JIRA, Git, Jenkins/Bamboo, CMake, Make, Spack, Arm Forge DDT, GDB, Valgrind, Intel Advisor/VTune, Nsight Compute/nvProf, ROCm Profiler, SLURM, Docker.
-- **Data Analysis & Modelling:** Skilled in data analysis and modelling using Python and MATLAB.
+
+**👨‍💻 Programming Languages:**  
+C/C++, Python, Java
+
+**⚙️ Parallel Programming & HPC:**  
+MPI, OpenMP, CUDA, HIP, SYCL, Kokkos, Legion
+
+**🖥️ Hardware:**  
+CPUs: Intel, AMD || GPUs: NVIDIA, AMD, Intel  
+Tested on: [LUMI-G](https://docs.lumi-supercomputer.eu/hardware/lumig/), [ARCHER2](https://www.archer2.ac.uk/about/hardware.html), [DiRAC-Tursa](https://www.epcc.ed.ac.uk/hpc-services/dirac-tursa-gpu), [Sulis](https://sulis-hpc.github.io/techspecs/), [Bede](https://n8cir.org.uk/bede/) • Avon
+
+**🐞 Profiling & Debugging:**  
+Intel VTune, Intel Advisor, Valgrind, GDB, Arm Forge DDT, Nsight Compute/nvProf, ROCm Profiler
+
+**🧪 Build & CI/CD Tools:**  
+CMake, Make, Jenkins, Bamboo, Git, Spack, Docker, SLURM
+
+**🔍 Testing & QA:**  
+GTest, JUnit, JBehave
+
+**🗄️ Databases & Documentation:**  
+Oracle, PostgreSQL, Confluence, JIRA
+
+**📊 Data & Analysis:**  
+MATLAB, Pandas, NumPy, Matplotlib
+
 
 ## 📫 Let's Connect!
 - 📧 zaman.lantra@gmail.com | zaman.lantra@warwick.ac.uk
