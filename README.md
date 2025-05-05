@@ -22,7 +22,7 @@ I am passionate about projects at the intersection of **HPC, performance optimiz
 
 ## 🎓 Academic Background
 - **PhD in High-Performance Computing**, University of Warwick, United Kingdom (expected completion: July 2025).
-- **BSc Engineering in Electronic and Telecommunication**, University of Moratuwa, Sri Lanka.
+- **BSc Engineering (Hons) in Electronic and Telecommunication**, University of Moratuwa, Sri Lanka.
 - **Advanced Level (Mathematics Steam)**, Isipathana College, Colombo, Sri Lanka.
 
 ## 🛠️ Skills
@@ -56,3 +56,4 @@ MATLAB, Pandas, NumPy, Matplotlib
 ## 📫 Let's Connect!
 - 📧 zaman.lantra@gmail.com | zaman.lantra@warwick.ac.uk
 - 💼 [LinkedIn](https://www.linkedin.com/in/zaman-lantra/)
+- 🧑‍💻 [University Profile]((https://warwick.ac.uk/fac/sci/dcs/people/u2162900/)
