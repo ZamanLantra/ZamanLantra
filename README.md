@@ -16,7 +16,6 @@ I am passionate about projects at the intersection of **HPC, performance optimiz
 ## 💼 Industry Experience
 - **Specialist Software Engineer** – 4.5+ years in financial systems
 - **IT Research Assistant** – 6 months working on simulation tools
-- Contributor to advanced Chemistry Educational Publications
 
 ## 🎓 Academic Background
 - **PhD in High-Performance Computing**, University of Warwick, United Kingdom (expected completion: July 2025)
@@ -24,5 +23,5 @@ I am passionate about projects at the intersection of **HPC, performance optimiz
 - **Advanced Level**, Isipathana College, Colombo, Sri Lanka
 
 ## 📫 Let's Connect!
-- 📧 [Gmail](zaman.lantra@gmail.com) | [UniEmail](zaman.lantra@warwick.ac.uk)
+- 📧 zaman.lantra@gmail.com | zaman.lantra@warwick.ac.uk
 - 💼 [LinkedIn](https://www.linkedin.com/in/zaman-lantra/)
