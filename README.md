@@ -31,7 +31,7 @@ I am passionate about projects at the intersection of **HPC, performance optimiz
 C/C++, Python, Java
 
 **⚙️ Parallel Programming & HPC:**  
-MPI, OpenMP, CUDA, HIP, SYCL, Kokkos, Legion
+Threads, OpenMP, MPI, CUDA, HIP, SYCL, Kokkos, Legion
 
 **🖥️ Hardware:**  
 CPUs: Intel, AMD || GPUs: NVIDIA, AMD, Intel  
