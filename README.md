@@ -4,10 +4,11 @@
 #### PhD in HPC | Ex-Fintech Engineer | Expert in C++/Python & GPU Programming | Passionate about performance, simulation & code that runs fast | Badminton Enthusiast.
 
 ##
-I am a PhD researcher specializing in **High-Performance Computing (HPC)** and **Software Engineering**, with over eight years of experience in **C/C++ and Python**.
-I have a strong background in **MPI, OpenMP, CUDA, HIP, and SYCL**, and am skilled in CPU/GPU programming, performance portability and optimization, domain-specific languages, source-to-source translation, profiling, distributed computing, low-level programming, and Linux-based environments.
-With 4.5+ years of industry experience as a **Specialist Software Engineer**, I have developed performance-critical components for stock exchanges.
-I am passionate about projects at the intersection of **HPC, performance optimization, and simulation technologies**.
+I thrive on pushing the limits of what is possible with modern CPUs and GPUs. As a PhD researcher in High-Performance Computing with over eight years of experience in C++ and Python, I specialize in building high-throughput, performance-critical systems. My work spans low-latency trading pipelines and massively parallel scientific simulations.
+
+I have contributed to core backend systems for global stock exchanges and developed a C++ domain-specific language that accelerates nuclear fusion simulations across thousands of CPUs and GPUs. My technical toolkit includes MPI, OpenMP, CUDA, HIP, and SYCL. I am also skilled in distributed computing, performance profiling, source-to-source code transformation, and optimization on Linux systems.
+
+I am passionate about solving complex engineering problems, where software performance and scalability matter most. I enjoy working on systems that combine deep technical challenges with real-world impact, particularly in simulation technologies and financial infrastructure.
 
 ## 🔬 Research Interests
 - Heterogeneous Computing and Portable Parallel Programming.
@@ -21,14 +22,19 @@ I am passionate about projects at the intersection of **HPC, performance optimiz
 - **IT Research Assistant** – 6 months conducting research on human group detection through video processing.
 
 ## 🎓 Academic Background
-- **PhD in High-Performance Computing**, University of Warwick, United Kingdom (expected completion: July 2025).
+- **PhD in High-Performance Computing**, University of Warwick, United Kingdom (July 2025).
 - **BSc Engineering (Hons) in Electronic and Telecommunication**, University of Moratuwa, Sri Lanka.
 - **Advanced Level (Mathematics Steam)**, Isipathana College, Colombo, Sri Lanka.
+
+## 📚 Recent Learning
+- IBM AI Engineering Professional Certificate – Cousera ([in progress](https://www.coursera.org/professional-certificates/ai-engineer?))  
+- Machine Learning Specialization – DeepLearning.AI, Stanford and Coursera ([Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/IRON6XC3PXE6))
+- Fundamentals of Accelerated Computing with CUDA Python – NVidia ([Certificate](https://learn.nvidia.com/certificates?id=419d26aa3d0e4aa9912df5fcbab56eea))
 
 ## 🛠️ Skills
 
 **👨‍💻 Programming Languages:**  
-C/C++, Python, Java
+C/C++, Python, Java, Scala, C#
 
 **⚙️ Parallel Programming & HPC:**  
 Threads, OpenMP, MPI, CUDA, HIP, SYCL, Kokkos, Legion
