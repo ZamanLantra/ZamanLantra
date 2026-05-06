@@ -60,6 +60,6 @@ MATLAB, Pandas, NumPy, Matplotlib
 
 
 ## 📫 Let's Connect!
-- 📧 zaman.lantra@gmail.com | zaman.lantra@warwick.ac.uk
+- 📧 zaman.lantra@gmail.com | Zaman.Lantra.1@warwick.ac.uk
 - 💼 [LinkedIn](https://www.linkedin.com/in/zaman-lantra/)
-- 🧑‍💻 [University Profile](https://warwick.ac.uk/fac/sci/dcs/people/u2162900/)
+- 🧑‍💻 [University Profile](https://warwick.ac.uk/fac/sci/dcs/people/zaman_lantra/)
